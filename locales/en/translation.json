@@ -1,0 +1,133 @@
+{
+  "bio": {
+    "firstName": "Zeinab",
+    "lastName": "Abdi",
+    "jobTitle": "Software Engineer",
+    "about": "I love designing systems and diving deep into challenges to solve problems. I have more than 5 years of experience in web applications. I am recently working with PHP & python language. I have experience in software development life cycle phases, including Design, Development, Business Analysis/Modeling, and Maintain. Tdd is something I recently went to.",
+    "avatar": "https://avatars.githubusercontent.com/u/11521314?v=4"
+  },
+
+  "contact": {
+    "phone": "+98 919 2522514",
+    "email": "abdi.zbn@gmail.com",
+    "website": "https://abdi.zbn.dev",
+    "location": "Qom, Iran"
+  },
+
+  "skills": [
+    "Python",
+    "Php",
+    "PostgresSQL",
+    "GraphQL",
+    "Redis",
+    "Event-driven Architecture",
+    "Laravel",
+    "Kafka",
+    "Elastic"
+  ],
+
+  "experiences": [
+    {
+      "company": "BarOn",
+      "type": "Part-time",
+      "icon": "https://baron-app.com/wp-content/uploads/cropped-logo_Bar_On-e1657882763703-180x180.png",
+      "position": "Software Engineer",
+      "startDate": "Sep 2022",
+      "endDate": "",
+      "description": "BarOn transportation system has provided a platform so that businesses can easily communicate with an ambassador. I'm responsible for troubleshooting, debugging and upgrading existing software and external projects, training, and mentoring backend team members.",
+      "website": "https://baron-app.com",
+      "skills": ["Software Architecture", "Problem solving", "technical leadership", "IDP"]
+    },
+    {
+      "company": "Basalam",
+      "type": "Full-time",
+      "icon": "https://basalam.com/favicon.ico",
+      "position": "Software Engineer",
+      "startDate": "Oct 2018",
+      "endDate": "",
+      "description": "Basalam is a large-scale startup. I'm responsible for solving business requirements with SLAs by developing new futures and improving the scaling or availability of systems. I developed Story, ADS, order processing, survey, and product variation systems.\nI often work with back-end developers and DevOps engineers in platform teams.",
+      "website": "https://www.basalam.com",
+      "skills": ["Python", "PHP", "PostgresSQL", "Microservice", "GraphQL", "team-work", "Problem solving"]
+    },
+    {
+      "company": "Software Architects Pasargad",
+      "type": "Full-time",
+      "icon": "",
+      "position": "Fullstack developer",
+      "startDate": "Jun 2015",
+      "endDate": "Sep 2016",
+      "description": "Pasargad is a wireless network provider. I designed and developed multi websites with PHP and Magento CMS. I also developed one windows application for network issue tracking.",
+      "website": "https://sapg.ir",
+      "skills": ["Php", "MySQL", "C#", "Network+", "TCP/IP", "HTML5", "CSS3", "Javascript"]
+    },
+    {
+      "company": "NADco",
+      "type": "Part-time",
+      "icon": "https://robomech.ir/media/organization/logo/logo_FvGgk1m.png",
+      "position": "Referee & Instructor of robotics competitions",
+      "startDate": "Nov 2010",
+      "endDate": "Dec 2012",
+      "description": "NADCo produces educational toys and robots with computer interfaces and offers formal hands-on courses based on its educational kits for different ages. I was teach the foundations of robotics, algorithmic thinking, and programming concepts to students and was a Referee in competitions.",
+      "website": "https://www.nadcosharif.com",
+      "skills": ["Programming", "Algorithm", "Electronic", "Micro-controllers"]
+    }
+  ],
+
+  "education": [
+    {
+      "school": "Shahab Danesh University",
+      "degree": "Bachelor of Science",
+      "field": "Computer Software Technology Engineering",
+      "startDate": "Sep 2011",
+      "endDate": "Jun 2013"
+    },
+    {
+      "school": "Qom University",
+      "degree": "Associate of Science",
+      "field": "Computer Science",
+      "startDate": "Sep 2009",
+      "endDate": "Jun 2011"
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "TARAZ",
+      "type": "Desktop Application",
+      "description": "An application for training and testing the textile design techniques.",
+      "skills": ["Animation", "Action Script lang", "Sound & video recording", "Graphic"],
+      "startDate": "Sep 2010",
+      "endDate": "Jun 2011"
+    },
+    {
+      "name": "FARAZ",
+      "type": "Robot",
+      "description": "A line follower robot",
+      "skills": ["Basic lang", "Electronic circuits", "Micro-controllers"],
+      "startDate": "Jul 2010",
+      "endDate": "Apr 2011"
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Limited Working proficiency"
+    },
+    {
+      "language": "Persian",
+      "fluency": "Native"
+    }
+  ],
+
+  "socials": [
+    {
+      "name": "Github",
+      "url": "https://github.com/abdiz"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/zeinab-abdi-6a3919b4"
+    }
+  ]
+}
